@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\ghg\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe.config
+C:\Users\USER\Desktop\ghg\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe
+C:\Users\USER\Desktop\ghg\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.pdb
+C:\Users\USER\Desktop\ghg\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ghg\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.exe
+C:\Users\USER\Desktop\ghg\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
+C:\Users\USER\Desktop\ghg\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\ghg\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.RegistrationForm.resources
+C:\Users\USER\Desktop\ghg\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\ghg\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.LoginForm.resources
+C:\Users\USER\Desktop\ghg\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.StudentForm.resources
+C:\Users\USER\Desktop\ghg\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.AdminDashboard.resources
+C:\Users\USER\Desktop\ghg\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Properties.Resources.resources
